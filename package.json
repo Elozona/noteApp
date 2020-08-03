@@ -1,0 +1,21 @@
+{
+  "name": "noteapp",
+  "version": "1.0.0",
+  "description": "An application that manages notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elozona/noteApp.git"
+  },
+  "author": "Chinedu Ezeifeka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elozona/noteApp/issues"
+  },
+  "homepage": "https://github.com/Elozona/noteApp#readme"
+}
